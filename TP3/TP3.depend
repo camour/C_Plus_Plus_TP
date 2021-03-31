@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588699460 source:c:\users\chadi\desktop\c++\tp3\main.cpp
+	<iostream>
+	<vector>
+	<list>
+

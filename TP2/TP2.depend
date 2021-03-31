@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1588688702 source:c:\users\chadi\desktop\c++\tp2\main.cpp
+	<iostream>
+	"Figure.h"
+	"File.h"
+
+1588287245 c:\users\chadi\desktop\c++\tp2\tp2.h
+
+1588376790 source:c:\users\chadi\desktop\c++\tp2\figure.cpp
+	"Figure.h"
+
+1588293264 c:\users\chadi\desktop\c++\tp2\figure.h
+	<iostream>
+	<string>
+
+1588607829 source:c:\users\chadi\desktop\c++\tp2\cellule.cpp
+	"Cellule.h"
+
+1588686708 c:\users\chadi\desktop\c++\tp2\cellule.h
+	<iostream>
+	<string>
+	"Cellule.h"
+
+1588721831 c:\users\chadi\desktop\c++\tp2\file.h
+	<iostream>
+	<string>
+	"Cellule.h"
+
+1588608753 source:c:\users\chadi\desktop\c++\tp2\file.cpp
+	"File.h"
+
